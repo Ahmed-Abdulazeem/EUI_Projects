@@ -1,3 +1,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/Ahmed-Abdulazeem/Calculator.git
+[submodule "StopWatch"]
+	path = StopWatch
+	url = https://github.com/Ahmed-Abdulazeem/StopWatch.git
